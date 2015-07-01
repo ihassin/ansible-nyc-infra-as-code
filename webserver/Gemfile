@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+gem 'serverspec'
+gem 'needle'
+gem 'net-ssh'
+
+gem 'rspec', :group => :test
+gem 'cucumber', :require => false, :group => :test

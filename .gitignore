@@ -1,0 +1,17 @@
+.bundle
+db/*.sqlite3
+log/*
+tmp/**/*
+public/*.zip
+.idea/*
+coverage/
+coverage.data
+*.gz
+utf.tar
+utf8-dump.sql
+*~
+.DS_Store
+report.html
+results.xml
+*.log
+

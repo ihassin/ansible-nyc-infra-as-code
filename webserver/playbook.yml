@@ -1,0 +1,8 @@
+---
+- hosts: all
+  user: vagrant
+  sudo: true
+
+  roles:
+    - common
+    - geerlingguy.apache
